@@ -32,3 +32,14 @@ You can access it at [CODE RUNNER LINK ](https://task-1-code-runner.vercel.app/)
    cd code-runner
 
 ![image](https://github.com/user-attachments/assets/ac965448-f6d3-467a-9c78-851d212ebebe)
+
+# Task - 2
+
+## Vite + React Project
+
+This project is a React application built with Vite. It includes a minimal setup to get React working with Vite, along with some ESLint rules and Tailwind CSS for styling.
+
+## Project Structure
+
+![image](https://github.com/user-attachments/assets/7171a8c8-c926-4ea6-a5c2-902747e1e7a9)
+
