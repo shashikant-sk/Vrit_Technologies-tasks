@@ -41,7 +41,7 @@ This project is a React application built with Vite. It includes a minimal setup
 
 ### Hosting
 
-You can access it at [CODE RUNNER LINK ](https://task-2-seven-delta.vercel.app/).
+You can access it at [Task-2 figma LINK ](https://task-2-seven-delta.vercel.app/).
 
 
 ### Project Structure
