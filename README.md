@@ -39,7 +39,12 @@ You can access it at [CODE RUNNER LINK ](https://task-1-code-runner.vercel.app/)
 
 This project is a React application built with Vite. It includes a minimal setup to get React working with Vite, along with some ESLint rules and Tailwind CSS for styling.
 
-## Project Structure
+### Hosting
+
+You can access it at [CODE RUNNER LINK ](https://task-2-seven-delta.vercel.app/).
+
+
+### Project Structure
 
 ![image](https://github.com/user-attachments/assets/7171a8c8-c926-4ea6-a5c2-902747e1e7a9)
 
